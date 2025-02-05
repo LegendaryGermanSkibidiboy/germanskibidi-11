@@ -1,5 +1,5 @@
 ----- PROJECT LICENSE -----
-MIT License
+LICENSE TYPE: MIT License
 
 Copyright (c) 2025 LegendaryGermanSkibidiboy
 
